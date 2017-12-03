@@ -24,6 +24,6 @@
     
   </dependencies>
   <build>
-    <finalName>appsc</finalName>
+    <finalName>rankers</finalName>
   </build>
 </project>
